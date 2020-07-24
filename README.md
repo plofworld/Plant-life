@@ -1,4 +1,4 @@
-## Family Riccia
+# Family Riccia
 
 Quite a large genus, which includes about 200 species, distributed in all parts of the world, especially in the southern regions. Riccia are inhabitants of damp soils. Aquatic species of Riccia settle in the reservoirs, the thallus of which has a very interesting reticular shape.
 
@@ -6,7 +6,7 @@ Terrestrial riccia species have small, multi-layered rosette-like and bifurcated
 
 In its dense thickets, fish fry can easily develop.
 
-# Class Leaf mosses, or Bryopsids
+## Class Leaf mosses, or Bryopsids
 
 This is the largest class of bryophytes, it includes more than 15,000 species (according to other sources, about 18,000 species). Representatives of leafy mosses on land are found everywhere from the polar deserts of the Arctic to peculiar areas of life - "oases" in Antarctica.
 
